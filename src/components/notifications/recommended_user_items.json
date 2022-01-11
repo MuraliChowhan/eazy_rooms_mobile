@@ -1,0 +1,27 @@
+[
+    {
+
+        "item_name": "Fish fry",
+        "cost": "500",
+        "item_image": "./icons/rece1.png"
+    },
+
+    {
+        "item_name": "Fish fry",
+        "cost": "500",
+        "item_image": "./icons/rece1.png"
+    },
+
+    {
+        "item_name": "Fish fry",
+        "cost": "500",
+        "item_image": "./icons/rece1.png"
+    },
+
+    {
+        "item_name": "Fish fry",
+        "cost": "500",
+        "item_image": "./icons/rece1.png"
+    }
+
+]

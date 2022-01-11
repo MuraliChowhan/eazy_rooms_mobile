@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Fish fry",
+        "image": "./icons/property7.jpg",
+        "desc": "Lorem ipsum doler sameth",
+        "orderType": "Request"
+    },
+    {
+        "name": "Fish fry",
+        "image": "./icons/property9.jpg",
+        "desc": "Lorem ipsum doler sameth",
+        "orderType": "Request"
+    },
+    {
+        "name": "Fish fry",
+        "image": "./icons/property8.jpg",
+        "desc": "Lorem ipsum doler sameth",
+        "orderType": "Request"
+    }
+]

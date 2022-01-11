@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Front Desk Call",
+        "desc": "Lorem ipsum",
+        "img": "./icons/rece1.png",
+        "type": "Request for Front Desk Call"
+    },
+
+    {
+        "name": "Bell Boy",
+        "desc": "Lorem ipsum",
+        "img": "./icons/rece2.png",
+        "type": "Request for Bell Boy"
+    },
+
+    {
+        "name": "Express Check-out",
+        "desc": "Lorem ipsum",
+        "img": "./icons/rece3.png",
+        "type": "Request for Front Desk Call"
+    },
+
+    {
+        "name": "Valet",
+        "desc": "Lorem ipsum",
+        "img": "./icons/rece4.png",
+        "type": "Request Valet"
+    }
+
+]

@@ -1,0 +1,60 @@
+.recommended{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.food-item-name{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.food-item-price{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    color: #000000;
+}
+
+.add-to-cart-btn{
+    position: relative;
+    border: 1.5px solid #1F3BDB;
+    width: 70px;
+    border-radius: 8px;
+    border: 2px solid #1F3BDB;
+    text-align: center;
+    bottom: 20px;
+    color: #1F3BDB;
+    margin-left: 14px;
+    background-color: #CCD2F5;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+}
+
+.browse-menu{
+    background: #222222;
+    border-radius: 30px;
+    padding: 12px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    color: #FFFFFF;
+
+}

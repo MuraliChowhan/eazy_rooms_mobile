@@ -1,0 +1,73 @@
+.edit-profile-tex{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration-line: underline;
+    color: #222222;
+}
+
+.breadcrumb-text{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.kv-avatar .file-input {
+    display: table-cell;
+    width: 213px;
+}
+label {
+    cursor: pointer;
+ }
+#upload-photo {
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+ }
+.user-name{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 22px;
+    color: #222222;
+}
+.user-email-text{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 22px;
+    color: #222222;
+}
+.profile-options-text{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    color: #000000;  
+}
+.sidebar-active-tab{
+    background-color: #d7e2ff;
+    padding: 10px;
+    border-radius: 3px;
+    color: #000;
+  }
+  .sidebar-inactive-tab {
+    padding: 10px;
+    border-radius: 3px;
+    color: #000;
+  }
+
+  .profile-info{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #222222;
+  }

@@ -1,0 +1,27 @@
+[
+    {
+
+        "offer": "get 50% off",
+        "desc": "Lorem ipsum",
+        "icon": "./icons/rece1.png"
+    },
+
+    {
+        "offer": "get 50% off",
+        "desc": "Lorem ipsum",
+        "icon": "./icons/rece1.png"
+    },
+
+    {
+        "offer": "get 50% off",
+        "desc": "Lorem ipsum",
+        "icon": "./icons/rece1.png"
+    },
+
+    {
+        "offer": "get 50% off",
+        "desc": "Lorem ipsum",
+        "icon": "./icons/rece1.png"
+    }
+
+]

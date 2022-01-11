@@ -1,0 +1,16 @@
+.breadcrumb-text{
+
+    font-style: normal;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.noti-card{
+    background: #FFFFFF;
+    border-radius: 12.9px;
+    padding: 8px;
+}

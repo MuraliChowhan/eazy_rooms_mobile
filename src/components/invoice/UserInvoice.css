@@ -1,0 +1,235 @@
+.invoice-header{
+    background: rgba(59, 114, 237, 0.5);
+    border-radius: 0px 0px 40px 40px;
+    height: 220px;
+}
+
+.hotel-name{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.invoice-number{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+
+.invoice-bill{
+    background: #F5F5F5;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+.amount-symbol{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #898989;
+}
+
+.amount{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 34px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000;
+}
+
+.amount-text{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    color: #263238;
+
+}
+.invoice-card{
+    background-color: #FFFFFF;
+    padding: 5px;
+    border-radius: 10px;
+    position: relative;
+    top: 10px;
+
+}
+
+.invoice-username{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #263238;
+}
+
+.invoice-for{
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #263238;
+
+}
+
+.user-address{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #263238;
+
+}
+
+.dots{
+        height: 10px;
+        width: 10px;
+        background-color: red;
+        border-radius: 50%;
+        display: inline-block;
+
+}
+.invoice-date{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: #898989;
+
+}
+.item-name{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+
+    color: rgba(38, 50, 56, 0.8);
+}
+
+.accordion-button:focus{
+    border-color: none;
+
+}
+.accordion-button:not(.collapsed) {
+    color:none;
+    background-color:none !important;
+    box-shadow: none;
+}
+
+.accordion-flush .accordion-item .accordion-button{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    text-transform: capitalize;
+    color: #898989;
+}
+
+.quantity-items{
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    text-transform: capitalize;
+    color: rgba(38, 50, 56, 0.8);
+}
+
+.bill-invoice-card{
+    background-color: #FFFFFF;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.invoice-user-desc{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+
+    color: #263238;
+}
+
+.invoice-subtotal{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    color: rgba(38, 50, 56, 0.8);
+}
+
+.invoice-discount{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    color: rgba(38, 50, 56, 0.8);
+
+}
+
+.invoice-total{
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    color: #000000;
+
+}
+
+.edit-profile-tex .dropdown-toggle:after { content: none }
+
+.dropdonw-items-text{
+    font-size: 12px;
+    font-weight: 500;
+}

@@ -1,0 +1,36 @@
+.checkout-btn{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    padding:6px;
+    background: #34A853;
+    border-radius: 30px;
+}
+
+.checkout-item-cost{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    background: #FFFFFF;
+    border-radius: 30px;
+    padding: 10px;
+    color: #24A148;
+}
+
+.checkout-text{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+
+}

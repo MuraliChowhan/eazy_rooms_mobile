@@ -1,0 +1,38 @@
+ [
+    {
+        "name": "Reception",
+        "image": "./icons/reception1.png"
+    },
+    {
+        "name": "House Keeping",
+        "image": "./icons/reception2.png"
+    },
+    {
+        "name": "Room Dining",
+        "image": "./icons/reception3.png"
+    },
+    {
+        "name": "Salon & Spa",
+        "image": "./icons/reception4.png"
+    },
+    {
+        "name": "Accessories",
+        "image": "./icons/reception5.png"
+    },
+    {
+        "name": "Report an issue",
+        "image": "./icons/reception2.png"
+    },
+    {
+        "name": "Vallet",
+        "image": "./icons/reception2.png"
+    },
+    {
+        "name": "Request",
+        "image": "./icons/reception2.png"
+    },
+    {
+        "name": "Travel Desk",
+        "image": "./icons/reception2.png"
+    }
+]

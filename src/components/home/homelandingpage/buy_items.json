@@ -1,0 +1,173 @@
+
+
+[
+    {
+        "foodName": "Chicken biryani",
+        "time": "30 mins",
+        "cost": "300",
+        "foodimage": "./icons/food-items.png",
+        "type":"IRD Menu",
+        "food_desc":"A few lines describing the products value or importance here",
+        "carousel_images":[
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            }
+        ]
+    },
+    {
+        "foodName": "Chicken biryani",
+        "time": "30 mins",
+        "cost": "300",
+        "type":"Buy product",
+        "foodimage": "./icons/food-items.png",
+        "food_desc":"A few lines describing the products value or importance here",
+        "carousel_images":[
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            }
+        ]
+    },
+    {
+        "foodName": "Chicken biryani",
+        "time": "30 mins",
+        "cost": "300",
+        "type":"service directory",
+        "foodimage": "./icons/food-items.png",
+        "food_desc":"A few lines describing the products value or importance here",
+        "carousel_images":[
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            }
+        ]
+    },
+    {
+        "foodName": "Chicken biryani",
+        "time": "30 mins",
+        "cost": "300",
+        "type":"Buy product",
+        "foodimage": "./icons/food-items.png",
+        "food_desc":"A few lines describing the products value or importance here",
+        "carousel_images":[
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            }
+        ]
+    },
+    {
+        "foodName": "Chicken biryani",
+        "time": "30 mins",
+        "cost": "300",
+        "foodimage": "./icons/food-items.png",
+        "food_desc":"A few lines describing the products value or importance here",
+        "carousel_images":[
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            }
+        ]
+    },
+    {
+        "foodName": "Chicken biryani",
+        "time": "30 mins",
+        "cost": "300",
+        "foodimage": "./icons/food-items.png",
+        "food_desc":"A few lines describing the products value or importance here",
+        "carousel_images":[
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            }
+        ]
+    },
+    {
+        "foodName": "Chicken biryani",
+        "time": "30 mins",
+        "cost": "300",
+        "type":"IRD Menu",
+        "foodimage": "./icons/food-items.png",
+        "food_desc":"A few lines describing the products value or importance here",
+        "carousel_images":[
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            }
+        ]
+    },
+    {
+        "foodName": "Chicken biryani",
+        "time": "30 mins",
+        "cost": "300",
+        "type":"service directory",
+        "foodimage": "./icons/food-items.png",
+        "food_desc":"A few lines describing the products value or importance here",
+        "carousel_images":[
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            }
+        ]
+    },
+    {
+        "foodName": "Chicken biryani",
+        "time": "30 mins",
+        "cost": "300",
+        "type":"IRD Menu",
+        "foodimage": "./icons/food-items.png",
+        "food_desc":"A few lines describing the products value or importance here",
+        "carousel_images":[
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            },
+            {
+                "item_image":"./icons/food-items.png"
+            }
+        ]
+    }
+]
